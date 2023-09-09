@@ -13,8 +13,8 @@ const conversationArr = [
   {
     role: "system",
     content:
-      "You are a highly knowledgeable assistant that is always happy to help.",
-  },
+
+  }
 ];
 
 document.addEventListener("submit", (e) => {
